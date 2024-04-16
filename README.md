@@ -2,6 +2,10 @@
 
 This repository contains a simple calorie counter application implemented using HTML, CSS, and JavaScript. The application allows users to set a daily calorie budget and track their calorie intake throughout the day by adding entries for breakfast, lunch, dinner, snacks, and exercise.
 
+## Deployment
+
+The project is deployed on [Netlify](https://calorie-counter-validation.netlify.app/).
+
 ## Functionality
 
 The application provides the following functionality:
